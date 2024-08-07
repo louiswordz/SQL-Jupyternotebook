@@ -1,0 +1,6 @@
+SELECT TOP (1000) [Studentid]
+      ,[Score]
+      ,[Average]
+      ,[Grade]
+      ,[Comment]
+  FROM [Tutorials].[dbo].[StudentResult]
